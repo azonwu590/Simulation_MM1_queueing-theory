@@ -1,4 +1,4 @@
-![image](https://github.com/azonwu590/Simulation_MM1_queueing-theory/assets/150345836/fc3b7e7e-73f6-4cea-9350-4145b557f9a8)### Content
+### Content
 Simulate the M/M/1 single server queueing system and discuss the utilization of server and user waiting time under various combination of interarrival time and service time.
 
 Interarrival time is exponentially distributed. With rate: λ
