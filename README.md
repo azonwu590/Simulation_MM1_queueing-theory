@@ -11,6 +11,6 @@ Service time for the server is exponentially distributed too. With rate: μ
 ![image](https://github.com/azonwu590/Simulation_MM1_queueing-theory/assets/150345836/c0db84e0-5f4f-4ba9-adac-5de83abc8acd)
 ![image](https://github.com/azonwu590/Simulation_MM1_queueing-theory/assets/150345836/95580df2-2de8-4a39-ac84-6d4d9ddc2d99)
 ![image](https://github.com/azonwu590/Simulation_MM1_queueing-theory/assets/150345836/56065569-e866-4b4d-af7a-f57c0b8ca931)
-
+![image](https://github.com/azonwu590/Simulation_MM1_queueing-theory/assets/150345836/fc3b7e7e-73f6-4cea-9350-4145b557f9a8)#
 
 
